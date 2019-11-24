@@ -2,3 +2,4 @@
 - Python
 - PyQt5
 - Pyinstaller
+- Inno Setup
